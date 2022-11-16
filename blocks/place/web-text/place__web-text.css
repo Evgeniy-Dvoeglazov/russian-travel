@@ -1,0 +1,14 @@
+.place__web-text {
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #aaa;
+  margin: 0 0 12px;
+}
+
+@media screen and (max-width: 424px) {
+  .place__web-text {
+    font-size: 8px;
+    margin: 0;
+  }  
+}
