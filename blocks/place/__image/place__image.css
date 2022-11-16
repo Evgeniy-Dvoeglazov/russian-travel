@@ -11,7 +11,7 @@
     width: 440px;
     height: 440px;
     margin-right: 32px;
-  }  
+  }
 }
 
 @media screen and (max-width: 1023px) {
@@ -19,20 +19,21 @@
     width: 340px;
     height: 340px;
     margin-right: 28px;
-  }  
+  }
 }
 
 @media screen and (max-width: 767px) {
   .place__image {
-    height: 0;
+    height: 425px;
     width: 100%;
-    padding-bottom: 100%;
     margin: 0 0 32px;
-  }  
+    object-fit: cover;
+  }
 }
 
 @media screen and (max-width: 424px) {
   .place__image {
     margin-bottom: 16px;
-  }  
+    height: 100%;
+  }
 }

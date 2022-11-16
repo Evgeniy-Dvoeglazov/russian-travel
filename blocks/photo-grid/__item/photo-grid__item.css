@@ -1,3 +1,16 @@
 .photo-grid__item {
   width: 100%;
 }
+
+@media screen and (max-width: 767px) {
+  .photo-grid__item {
+    height: 294px;
+    object-fit: cover;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .photo-grid__item {
+    height: 100%;
+  }
+}

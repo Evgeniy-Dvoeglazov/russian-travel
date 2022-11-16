@@ -5,6 +5,10 @@
   font-size: 16px;
 }
 
+.footer__link:last-child {
+  margin-right: 0;
+}
+
 .footer__link:hover {
   opacity: .8;
 }
@@ -14,7 +18,7 @@
     width: 100%;
     margin: 0 0 32px;
     font-size: 24px;
-  }  
+  }
 }
 
 @media screen and (max-width: 424px) {

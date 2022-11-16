@@ -4,20 +4,20 @@
   font-weight: 900;
   text-align: center;
   margin: 0 auto 32px;
+  z-index: 1;
 }
 
 @media screen and (max-width: 767px) {
   .cover__title {
     width: 90%;
-    font-size: 48px;
+    font-size: 32px;
     margin: 0 auto 16px;
-  }  
+  }
 }
 
 @media screen and (max-width: 424px) {
   .cover__title {
     max-width: 248px;
-    font-size: 32px;
     margin-bottom: 14px;
-  }  
+  }
 }
