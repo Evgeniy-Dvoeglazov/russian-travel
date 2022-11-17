@@ -22,6 +22,7 @@
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__figure/lead__figure.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 
@@ -44,15 +45,10 @@
 @import url(../blocks/place/__header/place__header.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
-@import url(../blocks/place/web-text/place__web-text.css);
+@import url(../blocks/place/__web-text/place__web-text.css);
 @import url(../blocks/place/__web-link/place__web-link.css);
 @import url(../blocks/place/__content/place__content.css);
 @import url(../blocks/place/__image/place__image.css);
-@import url(../blocks/place/__image/_altai/place__image_altai.css);
-@import url(../blocks/place/__image/_kosa/place__image_kosa.css);
-@import url(../blocks/place/__image/_kolsky/place__image_kolsky.css);
-@import url(../blocks/place/__image/_baikal/place__image_baikal.css);
-@import url(../blocks/place/__image/_karelia/place__image_karelia.css);
 @import url(../blocks/place/__paragraphs/place__paragraphs.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 

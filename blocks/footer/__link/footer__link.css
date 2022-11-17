@@ -3,6 +3,7 @@
   text-decoration: none;
   color: #fff;
   font-size: 16px;
+  transition: opacity .2s linear;
 }
 
 .footer__link:last-child {
@@ -19,11 +20,9 @@
     margin: 0 0 32px;
     font-size: 24px;
   }
-}
 
-@media screen and (max-width: 424px) {
-  .footer__link {
-    margin: 0 auto 14px;
-    font-size: 16px;
+  .footer__link:last-child {
+    margin-bottom: 0;
   }
+
 }

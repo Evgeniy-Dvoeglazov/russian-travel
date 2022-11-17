@@ -1,14 +1,9 @@
 .place__web-link {
   color: #fff;
   font-size: 18px;
+  transition: opacity .2s linear;
 }
 
 .place__web-link:hover {
   opacity: .8;
-}
-
-@media screen and (max-width: 424px) {
-  .place__web-link {
-    font-size: 12px;
-  }  
 }

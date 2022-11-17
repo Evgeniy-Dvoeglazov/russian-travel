@@ -4,13 +4,7 @@
 
 @media screen and (max-width: 767px) {
   .photo-grid__item {
-    height: 294px;
+    height: 216px;
     object-fit: cover;
-  }
-}
-
-@media screen and (max-width: 424px) {
-  .photo-grid__item {
-    height: 100%;
   }
 }

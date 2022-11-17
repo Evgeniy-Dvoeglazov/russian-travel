@@ -33,7 +33,6 @@
 
 @media screen and (max-width: 424px) {
   .place__image {
-    margin-bottom: 16px;
     height: 100%;
   }
 }

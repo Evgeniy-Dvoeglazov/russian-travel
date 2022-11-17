@@ -5,12 +5,6 @@
 
 @media screen and (max-width: 767px) {
   .footer__copyright {
-    padding-top: 16px;
-  }  
-}
-
-@media screen and (max-width: 424px) {
-  .footer__copyright {
-    font-size: 10px;
-  }  
+    padding-top: 48px;
+  }
 }
