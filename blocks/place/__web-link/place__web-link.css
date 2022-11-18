@@ -1,6 +1,7 @@
 .place__web-link {
   color: #fff;
   font-size: 18px;
+  line-height: 1.22;
   transition: opacity .2s linear;
 }
 
